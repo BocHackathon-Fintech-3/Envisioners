@@ -7,3 +7,5 @@ Team
 - UX/UI Magician: Mike
 - Software Architect: Chris
 - Software Engineer: Athos
+
+Powered by [Infinittex](http://www.infinittex.com) 
